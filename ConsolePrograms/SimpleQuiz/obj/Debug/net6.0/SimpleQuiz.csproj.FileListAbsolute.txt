@@ -1,0 +1,15 @@
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\bin\Debug\net6.0\SimpleQuiz.exe
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\bin\Debug\net6.0\SimpleQuiz.deps.json
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\bin\Debug\net6.0\SimpleQuiz.runtimeconfig.json
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\bin\Debug\net6.0\SimpleQuiz.dll
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\bin\Debug\net6.0\ref\SimpleQuiz.dll
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\bin\Debug\net6.0\SimpleQuiz.pdb
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.csproj.AssemblyReference.cache
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.AssemblyInfoInputs.cache
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.AssemblyInfo.cs
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.csproj.CoreCompileInputs.cache
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.dll
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\ref\SimpleQuiz.dll
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.pdb
+C:\Users\vilka\OneDrive\Desktop\IT\Csharp\CSharpLearingProjects\SimpleProjects\ConsolePrograms\SimpleQuiz\obj\Debug\net6.0\SimpleQuiz.genruntimeconfig.cache

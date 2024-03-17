@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsolePrograms",
+    "\\ConsolePrograms\\NumberGuessingGame"
   ],
+  "SelectedNode": "\\ConsolePrograms\\NumberGuessingGame\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

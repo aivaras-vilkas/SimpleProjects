@@ -10,7 +10,12 @@
       "ProjectGuid": "8dbac968-3663-46ea-b645-c7cbd1b0a463",
       "DisplayName": "NumberGuessingGame",
       "ColorIndex": 0
+    },
+    "3d6c2ce4-c041-4af4-b9e1-d16e75284eb4": {
+      "ProjectGuid": "3d6c2ce4-c041-4af4-b9e1-d16e75284eb4",
+      "DisplayName": "SimpleQuiz",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\ConsolePrograms",
-    "\\ConsolePrograms\\NumberGuessingGame"
+    "\\ConsolePrograms\\SimpleQuiz"
   ],
-  "SelectedNode": "\\ConsolePrograms\\NumberGuessingGame\\Program.cs",
+  "SelectedNode": "\\ConsolePrograms\\SimpleQuiz\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
